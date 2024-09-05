@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 I'm Leo
-### 16y trying to become a dev
+### 16y trying to become a programmer
 
 [![Leleo1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leleo1337&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
