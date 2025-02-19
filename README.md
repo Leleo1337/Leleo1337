@@ -3,8 +3,8 @@
 # 👋 I'm Leo
 ### 17y
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leleo1337&layout=compact)
-![Leleo1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leleo1337&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leleo1337&layout=compact&theme=dark)
+![Leleo1337's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Leleo1337&theme=dark)
 
 ### 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
