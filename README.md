@@ -3,7 +3,7 @@
 # 👋 I'm Leo
 ### 17y
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leleo1337&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leleo1337&layout=compact)
 
 ### 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
