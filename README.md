@@ -3,7 +3,7 @@
 # 👋 Hey I'm Leo
 ### 17y
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leleo1337&layout=compact&theme=dark)
+![Tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Leleo1337&layout=compact&theme=tokyonight)
 
 ### 🛠️ stacks
 ![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
