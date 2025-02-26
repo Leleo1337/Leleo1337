@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm leo</h1>
-<h3 align="center">A Front-end student</h3>
+<h3 align="center">I'm a Front-end student</h3>
 
 
 - 🌱 I’m currently learning **REACTjs Tailwind CSS**
