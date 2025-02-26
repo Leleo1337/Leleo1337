@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Front-end student</h3>
 
 
-- 🌱 I’m currently learning **REACTjs Tailwind CSS**
+- 🌱 I’m currently learning **React and Tailwind CSS**
 
 - 📫 How to reach me **Leandroroncatto15@gmail.com**
 
