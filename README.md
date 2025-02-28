@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React and Tailwind CSS**
 
-- 📫 How to reach me **Leandroroncatto15@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
