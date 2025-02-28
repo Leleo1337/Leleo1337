@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm leo</h1>
 <h3 align="center">I'm a Front-end student</h3>
 
+<br>
 
 - 🌱 I’m currently learning **React and Tailwind CSS**
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 ![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
