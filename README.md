@@ -13,6 +13,5 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leleo1337&show_icons=true&locale=en&layout=compact" alt="leleo1337" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leleo1337" alt="leleo1337" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leleo1337&layout=donut&theme=transparent))](https://github.com/leleo1337/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leleo1337&theme=dark" alt="leleo1337" /></p>
