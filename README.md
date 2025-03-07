@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Tailwind CSS**
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Stacks: :</h3>
 
 ![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
