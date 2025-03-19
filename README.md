@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **React and Tailwind CSS**
+- 🌱 I’m currently learning **React**
 <br>
 <h3 align="left">Stacks: </h3>
 
