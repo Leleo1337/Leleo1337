@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm leo</h1>
-<h3 align="center">I'm currently a Front-end student</h3>
+<h3 align="center">Full-stack student</h3>
 
 <br>
 
-- 🌱 I’m currently learning **React** and **TypeScript**
+- 🌱 I’m currently learning **Node.js** and **TypeScript**
 
 <h3 align="left">Stacks: </h3>
+
+
 
 ![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=flat-square&logo=tailwindcss)
@@ -16,4 +18,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leleo1337&layout=donut&theme=midnight-purple)](https://github.com/leleo1337/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leleo1337&theme=midnight-purple" alt="leleo1337" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leleo1337&theme=midnight-purple" alt="leleo1337"/></p>
