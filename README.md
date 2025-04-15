@@ -1,21 +1,38 @@
-<h1 align="center">Hi 👋, I'm leo</h1>
-<h3 align="center">Full-stack student</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Leo!" alt="Typing SVG" />
+</h1>
 
-<br>
+<br />
 
-- 🌱 I’m currently learning **Node.js** and **TypeScript**
+<div align="center">
+  
+  🔭 I’m currently working on my backend skills  
 
-<h3 align="left">Stacks: </h3>
+  🌱 I’m currently learning Node.js
 
+  💬 Ask me about JavaScript, HTML, CSS... or anything here
 
+</div>
 
-![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=flat-square&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br />
 
+<h2 align="center">⚒️ Techs and Tools ⚒️</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leleo1337&layout=donut&theme=midnight-purple)](https://github.com/leleo1337/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leleo1337&theme=midnight-purple" alt="leleo1337"/></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,github,vscode" alt="Skills" />
+</p>
+
+<br />
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<p align="center">
+  <img width="357" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleo1337&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=leleo1337&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=leleo1337&theme=react&border_radius=10&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  </a>
+</p>
