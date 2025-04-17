@@ -26,13 +26,11 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
+<!-- GitHub Summary Cards -->
 <p align="center">
-  <img width="357" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleo1337&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=leleo1337&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=leleo1337&theme=react&border_radius=10&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leleo1337&theme=react" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leleo1337&theme=react" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leleo1337&theme=react" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leleo1337&theme=react" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leleo1337&theme=react&utcOffset=8" alt="Productive Time" />
 </p>
