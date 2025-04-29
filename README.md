@@ -6,7 +6,7 @@
   
   🔭 Currently diving into backend development  
   
-  🌱 Learning Node.js  
+  🌱 I'm currently learning Node.js  
   
   💬 Ask me about JavaScript, HTML, CSS...
 
