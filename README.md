@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  🔭 Currently diving into backend development  
+  🔭 Currently starting to learn backend
   
   🌱 I'm currently learning Node.js  
   
