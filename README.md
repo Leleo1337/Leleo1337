@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  🔭 Currently starting to learn backend
+  🔭 Currently building backend projects with Node.js, Express, TypeScript & MongoDB  
   
-  🌱 I'm currently learning Node.js  
+  🌱 Exploring advanced backend concepts and architecture
   
   💬 Ask me about JavaScript, HTML, CSS...
 
