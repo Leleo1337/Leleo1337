@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  🔭 Currently building backend projects with Node.js, Express, TypeScript & MongoDB  
+  🔭 Currently full-stack projects with React, Node.js, Express, TypeScript & MongoDB  
   
   🌱 Exploring advanced backend concepts and architecture
   
