@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  🔭 Currently full-stack projects with React, Node.js, Express, TypeScript & MongoDB  
+  🔭 Currently studying java
   
   🌱 Exploring advanced backend concepts and architecture
   
@@ -15,7 +15,7 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,github,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,tailwind,nodejs,express,mongodb,github,vscode" alt="Skills" />
 </p>
 
 <br />
