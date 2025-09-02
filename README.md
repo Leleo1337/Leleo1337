@@ -28,5 +28,5 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leleo1337&theme=react" width="300" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leleo1337&theme=react" width="300" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leleo1337&theme=react&exclude=html" width="300" alt="Productive Time" />
 </p>
