@@ -6,7 +6,7 @@
   
   🔭 Currently studying java
   
-  🌱 Exploring advanced backend concepts and architecture
+  🌱 Focusing on backend development, APIs, and architecture
   
   💬 Ask me about JavaScript, HTML, CSS...
 
